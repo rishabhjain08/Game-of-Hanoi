@@ -1,0 +1,2 @@
+To install ncurses type in terminal (for linux users):
+apt-get install libncurses5-dev
